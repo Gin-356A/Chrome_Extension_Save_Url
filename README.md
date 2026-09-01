@@ -21,7 +21,6 @@ A simple and lightweight Chrome Extension built with **HTML, CSS, and JavaScript
 
 📂 Project Structure
 
-```text
 Browser_Extension/
 │
 ├── icon.png       # Extension icon
